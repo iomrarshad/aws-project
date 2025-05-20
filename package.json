@@ -2,12 +2,10 @@
   "name": "devops-practice",
   "version": "1.0.0",
   "description": "",
-  "main": "script.js",
+  "main": "math.js",
   "scripts": {
     "test": "jest"
   },
-  "author": "",
-  "license": "ISC",
   "devDependencies": {
     "jest": "^29.7.0"
   }
