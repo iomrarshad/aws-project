@@ -1,8 +1,6 @@
 {
   "name": "devops-practice",
   "version": "1.0.0",
-  "description": "",
-  "main": "math.js",
   "scripts": {
     "test": "jest"
   },
